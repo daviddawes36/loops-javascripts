@@ -18,6 +18,11 @@ for (let i = 0; i<7; i++){
     console.log(12)
 }
 // print the number 100 (5 times)
+
+console.log('print the number 100 (5 times)')
+for (let i = 0; i<5; i++){
+    console.log(100)
+}
 // print out the number (0,1, 2, 3..... 10)
 // print out the number (1,2,3,4,....10)
 // print out the even number (0,2,4,6,8,10)
